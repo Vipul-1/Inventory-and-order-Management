@@ -124,7 +124,7 @@ Access the application:
 
 | Service | URL |
 |---------|-----|
-| **Frontend** | [inventory-and-order-management.vercel.app](https://inventory-and-order-management-ndn70ljbl-vipul-s-projects5.vercel.app) |
+| **Frontend** | [frontend-two-sand-32.vercel.app](https://frontend-two-sand-32.vercel.app) |
 | **Backend API** | [inventory-and-order-management-49zl.onrender.com](https://inventory-and-order-management-49zl.onrender.com) |
 | **API Docs** | [Swagger UI](https://inventory-and-order-management-49zl.onrender.com/docs) |
 | **Docker Image** | [vipulparihar/inventory-backend](https://hub.docker.com/r/vipulparihar/inventory-backend) |
