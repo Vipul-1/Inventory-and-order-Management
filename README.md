@@ -120,8 +120,19 @@ Access the application:
 | `CORS_ORIGINS` | Allowed CORS origins | `http://localhost:3000` |
 | `VITE_API_URL` | Backend API URL for frontend | `http://localhost:8000` |
 
+## Live Demo
+
+| Service | URL |
+|---------|-----|
+| **Frontend** | [inventory-and-order-management.vercel.app](https://inventory-and-order-management-ndn70ljbl-vipul-s-projects5.vercel.app) |
+| **Backend API** | [inventory-and-order-management-49zl.onrender.com](https://inventory-and-order-management-49zl.onrender.com) |
+| **API Docs** | [Swagger UI](https://inventory-and-order-management-49zl.onrender.com/docs) |
+| **Docker Image** | [vipulparihar/inventory-backend](https://hub.docker.com/r/vipulparihar/inventory-backend) |
+
+> **Note**: The backend runs on Render's free tier and may take 30-60 seconds to wake up on first request.
+
 ## Deployment
 
 - **Backend**: Deployed on [Render](https://render.com) with PostgreSQL add-on
 - **Frontend**: Deployed on [Vercel](https://vercel.com)
-- **Docker Image**: Published on [Docker Hub](https://hub.docker.com)
+- **Docker Image**: Published on [Docker Hub](https://hub.docker.com/r/vipulparihar/inventory-backend)
